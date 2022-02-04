@@ -1,0 +1,13 @@
+C:\Users\Giulian.Maccarone\Desktop\Zahlenspiel\obj\Debug\netcoreapp3.1\Zahlenspiel.csprojAssemblyReference.cache
+C:\Users\Giulian.Maccarone\Desktop\Zahlenspiel\obj\Debug\netcoreapp3.1\Zahlenspiel.AssemblyInfoInputs.cache
+C:\Users\Giulian.Maccarone\Desktop\Zahlenspiel\obj\Debug\netcoreapp3.1\Zahlenspiel.AssemblyInfo.cs
+C:\Users\Giulian.Maccarone\Desktop\Zahlenspiel\obj\Debug\netcoreapp3.1\Zahlenspiel.csproj.CoreCompileInputs.cache
+C:\Users\Giulian.Maccarone\Desktop\Zahlenspiel\bin\Debug\netcoreapp3.1\Zahlenspiel.exe
+C:\Users\Giulian.Maccarone\Desktop\Zahlenspiel\bin\Debug\netcoreapp3.1\Zahlenspiel.deps.json
+C:\Users\Giulian.Maccarone\Desktop\Zahlenspiel\bin\Debug\netcoreapp3.1\Zahlenspiel.runtimeconfig.json
+C:\Users\Giulian.Maccarone\Desktop\Zahlenspiel\bin\Debug\netcoreapp3.1\Zahlenspiel.runtimeconfig.dev.json
+C:\Users\Giulian.Maccarone\Desktop\Zahlenspiel\bin\Debug\netcoreapp3.1\Zahlenspiel.dll
+C:\Users\Giulian.Maccarone\Desktop\Zahlenspiel\bin\Debug\netcoreapp3.1\Zahlenspiel.pdb
+C:\Users\Giulian.Maccarone\Desktop\Zahlenspiel\obj\Debug\netcoreapp3.1\Zahlenspiel.dll
+C:\Users\Giulian.Maccarone\Desktop\Zahlenspiel\obj\Debug\netcoreapp3.1\Zahlenspiel.pdb
+C:\Users\Giulian.Maccarone\Desktop\Zahlenspiel\obj\Debug\netcoreapp3.1\Zahlenspiel.genruntimeconfig.cache
